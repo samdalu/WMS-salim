@@ -1,0 +1,13 @@
+ul{
+  list-style: none;
+}
+.filters a{
+  float:left;
+  padding:30px;
+  border-radius: 70px;
+  background: #ffcb85;
+  text-decoration: none;
+}
+.filter a:hover{
+
+}
